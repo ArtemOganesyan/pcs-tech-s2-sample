@@ -7,6 +7,6 @@ Requirements:
 4. Button must be named "Login" and have grey backround color.
 5. After successfull login user should see welcome message.
 
-Test data:
-Login: test
-Password: test
+Test data:\
+Login: test\
+Password: test\
