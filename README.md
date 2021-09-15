@@ -9,4 +9,4 @@ Requirements:
 
 Test data:\
 Login: test\
-Password: test\
+Password: test
