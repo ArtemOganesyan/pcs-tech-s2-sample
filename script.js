@@ -1,7 +1,10 @@
 function auth(login, password) {
     var client = new HttpClient();
     client.get("http://pcs-tech-sample-216626155.us-east-2.elb.amazonaws.com/auth?login="+login+"&password="+password+"", function(response) {
-        document.getElementById("result").innerHTML = response;
+        // let elem = document.createElement('div');
+        // elem.innerHTML = response;
+        // document.getElementById('result').appendChild(elem);
+        document.getElementById('result').innerHTML = response;
     });
 }
 
