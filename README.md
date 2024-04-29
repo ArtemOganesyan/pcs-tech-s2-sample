@@ -8,5 +8,6 @@ Requirements:
 5. After successfull login user should see welcome message.
 
 Test data:\
+
 Login: test\
 Password: password
