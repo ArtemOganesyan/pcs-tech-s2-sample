@@ -9,5 +9,4 @@ Requirements:
 
 Test data:\
 Login: test\
-
 Password: password
